@@ -1,6 +1,8 @@
 # tcc-fifw
 This is a quick installation in one bat file for Tiny C Compiler on Windows.
-Attention, this is the version of Tiny C Compiler for x86_64 architecture!!!\n
+
+Attention, this is the version of Tiny C Compiler for x86_64 architecture!!!
+
 Original tcc: https://bellard.org/tcc/
 
 Installation guide:
