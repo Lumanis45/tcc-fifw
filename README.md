@@ -1,5 +1,6 @@
 # tcc-fifw
 This is a quick installation in one bat file for Tiny C Compiler on Windows.
+Original tcc: https://bellard.org/tcc/
 
 Installation guide:
 1. Unzip archive
