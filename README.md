@@ -1,5 +1,5 @@
 # tcc-fifw
-It just tiny c compiler, fast install for windows in one bat file
+This is a quick installation in one bat file for Tiny C Compiler on Windows.
 
 Installation guide:
 1. Unzip archive
